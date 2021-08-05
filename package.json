@@ -1,13 +1,13 @@
 {
-    "name": "material-github-theme-extension-pack",
+    "name": "common-languages-extension-pack-extension-pack",
     "publisher": "niem94",
-    "displayName": "Material GitHub Theme Extension Pack",
-    "description": "A collection of theme specific extensions that extend the official GitHub Theme Extension",
+    "displayName": "Common Languages Extension Pack",
+    "description": "A collection of extension to support common file languages in VSCode",
     "version": "0.0.1",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/niem94/vscode.material-github-theme-extension-pack"
+        "url": "https://github.com/niem94/vscode.common-languages-extension-pack"
     },
     "engines": {
         "vscode": "^1.58.0"
@@ -16,7 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "pkief.material-icon-theme",
-        "github.github-vscode-theme"
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml"
     ]
 }
