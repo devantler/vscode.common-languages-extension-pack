@@ -1,13 +1,13 @@
 {
     "name": "common-languages-extension-pack-extension-pack",
-    "publisher": "niem94",
+    "publisher": "devantler",
     "displayName": "Common Languages Extension Pack",
     "description": "A collection of extension to support common file languages in VSCode",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/niem94/vscode.common-languages-extension-pack"
+        "url": "https://github.com/devantler/vscode.common-languages-extension-pack"
     },
     "engines": {
         "vscode": "^1.58.0"

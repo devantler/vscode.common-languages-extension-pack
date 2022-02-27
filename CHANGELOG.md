@@ -1,10 +1,5 @@
 # Change Log
 
-## [0.0.2]
+## [1.0.0]
 
-- Added PlantUML
-
-## [0.0.1]
-
-- Added XML
-- Added YAML
+- Initial
