@@ -1,5 +1,5 @@
 {
-    "name": "common-languages-extension-pack-extension-pack",
+    "name": "common-languages-extension-pack",
     "publisher": "devantler",
     "displayName": "Common Languages Extension Pack",
     "description": "A collection of extension to support common file languages in VSCode",
