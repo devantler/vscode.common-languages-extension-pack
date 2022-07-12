@@ -3,7 +3,7 @@
     "publisher": "devantler",
     "displayName": "Common Languages Extension Pack",
     "description": "A collection of extension to support common file languages in VSCode",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -18,7 +18,6 @@
     "extensionPack": [
         "redhat.vscode-xml",
         "redhat.vscode-yaml",
-        "IronGeek.vscode-env",
         "jebbs.plantuml"
     ]
 }
