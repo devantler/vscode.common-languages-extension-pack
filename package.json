@@ -3,7 +3,7 @@
     "publisher": "devantler",
     "displayName": "Common Languages Extension Pack",
     "description": "A collection of extension to support common file languages in VSCode",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
@@ -31,6 +31,7 @@
         "golang.go",
         "GraphQL.vscode-graphql",
         "langium.langium-vscode",
-        "samuelcolvin.jinjahtml"
+        "samuelcolvin.jinjahtml",
+        "jock.svg"
     ]
 }

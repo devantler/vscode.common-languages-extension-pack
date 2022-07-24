@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.6] 2022-07-24
+
+- Added support for SVG (.svg)
+
 ## [1.0.5] 2022-07-24
 
 - Added syntax highlightning for for Jinja (.j2)
